@@ -1,4 +1,4 @@
-pyrofork
+pyrofork==2.3.43
 tgcrypto 
 requests 
 bs4 
